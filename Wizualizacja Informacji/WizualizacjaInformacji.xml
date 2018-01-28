@@ -294,7 +294,7 @@
         <answer1>X->Y</answer1>
         <answer2>X^2->Y</answer2>
         <answer3>X^2->Y^m</answer3>
-        <answer4>X^n->Y^m dla m >= 1</answer4>
+        <answer4>Wszystkie wymienione</answer4>
     </question>
     <question>
         <description>Wykres kołowy:</description>
@@ -353,17 +353,17 @@
     <question>
         <description>Wykres punktowy:</description>
         <answer1>X->Y^m dla m > 1</answer1>
-        <answer2>X->Y</answer2>
+        <answer2>X^n->Y^m dla m >= 1</answer2>
         <answer3>X^2->Y</answer3>
         <answer4>X^2->Y^m</answer4>
     </question>
-    <question>
-        <description>Wykres słupkowy:</description>
-        <answer1>X->Y^m dla m > 1</answer1>
-        <answer2>X->Y</answer2>
-        <answer3>X^2->Y</answer3>
-        <answer4>X^2->Y^m</answer4>
-    </question>
+    <!--<question>-->
+        <!--<description>Wykres słupkowy:</description>-->
+        <!--<answer1>X->Y^m dla m > 1</answer1>-->
+        <!--<answer2>X->Y</answer2>-->
+        <!--<answer3>X^2->Y</answer3>-->
+        <!--<answer4>X^2->Y^m</answer4>-->
+    <!--</question>-->
     <question>
         <description>Wykres pierścieniowy:</description>
         <answer1>X->Y^m dla m > 1</answer1>
@@ -420,21 +420,21 @@
         <answer1>X^2->Y</answer1>
         <answer2>X->Y^2</answer2>
         <answer3>X->Y</answer3>
-        <answer4>X^m->Y^n, n=>1</answer4>
+        <answer4>X^n->Y^m, m => 1</answer4>
     </question>
-    <question>
-        <description>Wykres słupkowy:</description>
-        <answer1>X^2->Y</answer1>
-        <answer2>X->Y^2</answer2>
-        <answer3>X->Y</answer3>
-        <answer4>X^m->Y^n, n=>1</answer4>
-    </question>
+    <!--<question>-->
+        <!--<description>Wykres słupkowy:</description>-->
+        <!--<answer1>X^2->Y</answer1>-->
+        <!--<answer2>X->Y^2</answer2>-->
+        <!--<answer3>X->Y</answer3>-->
+        <!--<answer4>X^m->Y^n, n=>1</answer4>-->
+    <!--</question>-->
     <question>
         <description>Wykres typu mapa:</description>
         <answer1>X^2->Y</answer1>
         <answer2>X->Y^2</answer2>
         <answer3>X->Y</answer3>
-        <answer4>X^m->Y^n, n=>1</answer4>
+        <answer4>X->Y^m, m=>1</answer4>
     </question>
     <question>
         <description>Wykres bąbelkowy:</description>
@@ -483,15 +483,15 @@
         <answer1>X^2->Y^m</answer1>
         <answer2>X->Y^2</answer2>
         <answer3>X->Y</answer3>
-        <answer4>X^m->Y^n, n=>1</answer4>
+        <answer4>X^n->Y^m, m=>1</answer4>
     </question>
-    <question>
-        <description>Wykres słupkowy:</description>
-        <answer1>X^2->Y^m</answer1>
-        <answer2>X->Y</answer2>
-        <answer3>X^n->Y^m dla m >= 1</answer3>
-        <answer4>X->Y^m</answer4>
-    </question>
+    <!--<question>-->
+        <!--<description>Wykres słupkowy:</description>-->
+        <!--<answer1>X^2->Y^m</answer1>-->
+        <!--<answer2>X->Y</answer2>-->
+        <!--<answer3>X^n->Y^m dla m >= 1</answer3>-->
+        <!--<answer4>X->Y^m</answer4>-->
+    <!--</question>-->
     <question>
         <description>Wykres bąbelkowy:</description>
         <answer1>X^2->Y^m</answer1>
@@ -562,6 +562,13 @@
         <answer2>X->Y</answer2>
         <answer3>X^2->Y^m dla m >= 1</answer3>
         <answer4>X->Y^m</answer4>
+    </question>
+    <question>
+    <description>Wykres słupkowy to NIE:</description>
+    <answer1>X^n->Y^m dla m >= 1</answer1>
+    <answer2>X->Y^m dla m > 1</answer2>
+    <answer3>X^2->Y</answer3>
+    <answer4>X^2->Y^m</answer4>
     </question>
     <question>
         <description>X^n -> Y^m dla m >= 1</description>
