@@ -1,0 +1,594 @@
+<test>
+
+    <question>
+        <description>Porządkowanie danych pozwala dobrze ukazywać zależności w...</description>
+        <answer1>wykresie typu szachownicy</answer1>
+        <answer2>wykresie punktowym</answer2>
+        <answer3>typu mapa</answer3>
+        <answer4>sieci rybackiej</answer4>
+    </question>
+    <question>
+        <description>Co to są mikrowzory?</description>
+        <answer1>Grupowanie pikseli w nadpiksele</answer1>
+        <answer2>Antyaliasing</answer2>
+        <answer3>korekcje gamma</answer3>
+        <answer4>zależności logarytmiczne</answer4>
+    </question>
+
+
+    <question>
+        <description>Jakie piksele są brane pod uwagę Floyda-Steinberga?</description>
+        <answer1>Cztery jeszcze nie odwiedzone</answer1>
+        <answer2>Najbliższe cztery</answer2>
+        <answer3>Wszystkie na około</answer3>
+        <answer4>Od lewej od góry, pokolei</answer4>
+    </question>
+
+    <question>
+        <description>Na czym polega przetwarzanie wybiorcze?</description>
+        <answer1>Na podniesieniu wartswy zainteresowania, obizenie pozostalych warstw</answer1>
+        <answer2>Tylko przekroj</answer2>
+        <answer3>Obnizenie poziomu zainteresowania, brak wyszczegolnienia waznych warstw</answer3>
+        <answer4>Prezentacja dokumentow na plaszczyznie</answer4>
+    </question>
+
+    <question>
+        <description>Skalowanie wielowymiarowe to:</description>
+        <answer1>Rozmieszczenie podobnych rzeczy bliżej siebie</answer1>
+        <answer2>Rozbicie jednego wymiaru na kilka</answer2>
+        <answer3>Rozdrobnienie obrazu na mniejsze fragmenty</answer3>
+        <answer4>Wyszczegółowienie ważnych informacji</answer4>
+    </question>
+
+    <!-- Metoda centroidowa -->
+
+    <question>
+        <description>Która nazwa jest synonimem Metody Centroidowej?</description>
+        <answer1>LBG</answer1>
+        <answer2>cut-mediana</answer2>
+        <answer3>Kwantyzacja wg drzewa ósemkowego</answer3>
+        <answer4>Kwantyzacja skupionego grupowania</answer4>
+    </question>
+    <question>
+        <description>Która nazwa jest synonimem Metody Centroidowej?</description>
+        <answer1>k-średnich</answer1>
+        <answer2>cut-mediana</answer2>
+        <answer3>Kwantyzacja wg drzewa ósemkowego</answer3>
+        <answer4>Kwantyzacja skupionego grupowania</answer4>
+    </question>
+    <question>
+        <description>Która nazwa jest synonimem Metody Centroidowej?</description>
+        <answer1>klasterowa</answer1>
+        <answer2>cut-mediana</answer2>
+        <answer3>Kwantyzacja wg drzewa ósemkowego</answer3>
+        <answer4>Kwantyzacja skupionego grupowania</answer4>
+    </question>
+    <question>
+        <description>Która nazwa nie jest synonimem Metody Centroidowej</description>
+        <answer1>Median cut</answer1>
+        <answer2>klasterowy</answer2>
+        <answer3>k-średnich</answer3>
+        <answer4>LBG</answer4>
+    </question>
+    <question>
+        <description>Która nazwa nie jest synonimem Metody Centroidowej</description>
+        <answer1>Kwantyzacja wg drzewa ósemkowego</answer1>
+        <answer2>klasterowy</answer2>
+        <answer3>k-średnich</answer3>
+        <answer4>LBG</answer4>
+    </question>
+    <question>
+        <description>Która nazwa nie jest synonimem Metody Centroidowej</description>
+        <answer1>Kwantyzacja skupionego grupowania</answer1>
+        <answer2>klasterowy</answer2>
+        <answer3>k-średnich</answer3>
+        <answer4>LBG</answer4>
+    </question>
+
+    <!-- Minimalizacja błędu średniokwadratowego, table lens -->
+
+    <question>
+        <description>Minimalizacja błędu sredniokwadratowego</description>
+        <answer1>Kwantyzacja Maxa-Lloyda</answer1>
+        <answer2>Kwantyzacja popularnosciowa</answer2>
+        <answer3>Mediana-cut</answer3>
+        <answer4>Kwantyzacja osemkowa</answer4>
+    </question>
+    <question>
+        <description>Jaka metoda umożliwia przeglądanie i wizualizację wielkiej ilości danych tabelarycznych? </description>
+        <answer1>Table Lens</answer1>
+        <answer2>Kwantyzacja</answer2>
+        <answer3>Dyfuzja Floyda-Steinberga</answer3>
+        <answer4>Antyaliasing</answer4>
+    </question>
+
+    <!-- Wizualizacja -->
+
+    <question>
+        <description>Co to jest wizualizacja danych?</description>
+        <answer1>Prezentacja zależności czegoś od czegoś</answer1>
+        <answer2>Prezentacja obiektu lub zjawiska</answer2>
+        <answer3>Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów</answer3>
+        <answer4>Pokazywanie bazy danych</answer4>
+    </question>
+    <question>
+        <description>Co to jest wizualizacja (ogólnie)?</description>
+        <answer1>Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów</answer1>
+        <answer2>Prezentacja obiektu lub zjawiska</answer2>
+        <answer3>Prezentacja zależności czegoś od czegoś</answer3>
+        <answer4>Przedmiot</answer4>
+    </question>
+    <question>
+        <description>Co to jest wizualizacja NAUKOWA?</description>
+        <answer1>Prezentacja obiektu lub zjawiska</answer1>
+        <answer2>Prezentacja zależności czegoś od czegoś</answer2>
+        <answer3>Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów</answer3>
+        <answer4>Baza danych naukowo</answer4>
+    </question>
+
+    <!-- Mapa Snowa, umieralność w wojsku, wykres Playfaira, mapa Minarda, buźki Chernoffa, patyczaki -->
+
+    <question>
+        <description>Kto stworzył diagram o umieralności w wosjku z przed 150 lat?</description>
+        <answer1>Nightingale</answer1>
+        <answer2>Mirand</answer2>
+        <answer3>Napelon</answer3>
+        <answer4>Snow</answer4>
+    </question>
+    <question>
+        <description>Co obrazuje mapa Minarda?</description>
+        <answer1>Kampanie Napoleona</answer1>
+        <answer2>Umieralność w wojsku z przed 150 lat</answer2>
+        <answer3>Korelacje epidemii cholery z połóżeniem jednej z pomp</answer3>
+        <answer4>Równowaga rynku</answer4>
+    </question>
+    <question>
+        <description>Co pokazuje wykres Playfaira</description>
+        <answer1>Równowaga rynku</answer1>
+        <answer2>Kampanie Napoleona</answer2>
+        <answer3>Przyczyny śmierci w wojsku</answer3>
+        <answer4>Korelacja epidemii cholery z połóżeniem jednej z pomp</answer4>
+    </question>
+    <question>
+        <description>Do czego służyła mapa Snowa?</description>
+        <answer1>Korelacja epidemii cholery z położeniem jednej z pomp</answer1>
+        <answer2>Określenie przyczyny smierci w wojsku</answer2>
+        <answer3>Pokazanie przebiegu kampanii Napoleona</answer3>
+        <answer4>Wizualizację równowagi rynku</answer4>
+    </question>
+    <question>
+        <description>Wykres z buźkami, kogo?</description>
+        <answer1>Chernoffa</answer1>
+        <answer2>Mira</answer2>
+        <answer3>Playfaira</answer3>
+        <answer4>Snowa</answer4>
+    </question>
+    <question>
+        <description>Dlugość odcinka, kąt nachylenia srednich, tip to kolejne wymiary</description>
+        <answer1>Patyczaki</answer1>
+        <answer2>Hiperpudlo</answer2>
+        <answer3>buzki Chernoffa</answer3>
+        <answer4>wielowymiarowe ikony</answer4>
+    </question>
+
+    <!-- Dane jednowymiarowe przykłady wykresów -->
+
+    <question>
+        <description>Dane jednowymiarowe reprezentuje wykres:</description>
+        <answer1>Pudełkowy Tukeya</answer1>
+        <answer2>Typu mapa</answer2>
+        <answer3>Kolumnowy</answer3>
+        <answer4>Typu sieć rybacka</answer4>
+    </question>
+    <question>
+        <description>Dane jednowymiarowe reprezentuje wykres:</description>
+        <answer1>Iskres</answer1>
+        <answer2>Bąbelkowy</answer2>
+        <answer3>Typu mapa</answer3>
+        <answer4>Typu sieć rybacka</answer4>
+    </question>
+    <question>
+        <description>Dane jednowymiarowe reprezentuje wykres:</description>
+        <answer1>Histogram</answer1>
+        <answer2>Typu sieć rybacka</answer2>
+        <answer3>Mapa miasta</answer3>
+        <answer4>Kolaż zdjęć w albumie</answer4>
+    </question>
+    <question>
+        <description>Jaki wykres służy tylko do danych jednowymiarowych</description>
+        <answer1>Percentylowy</answer1>
+        <answer2>Liniowy</answer2>
+        <answer3>Mapa</answer3>
+        <answer4>Mozaikowy</answer4>
+    </question>
+
+    <!-- Wykres Kagi -->
+
+    <question>
+        <description>Wykres kluczy to inaczej:</description>
+        <answer1>Wykres Kagi</answer1>
+        <answer2>SOM - Self Organised Map</answer2>
+        <answer3>Diagram Gantta</answer3>
+        <answer4>Kartogram</answer4>
+    </question>
+    <question>
+        <description>Wykres Kagi słuzył jako:</description>
+        <answer1>Prosty wskaźnik na giełdzie akcji</answer1>
+        <answer2>Obrazował PKB na jednego mieszkańca</answer2>
+        <answer3>Pokazywał śmiertelność dzieci w danym kraju</answer3>
+        <answer4>Wizualizował proporcję ilości używanych liter w słowach</answer4>
+    </question>
+    <question>
+        <description>Wykres Kagi odwzorowywały litery:</description>
+        <answer1>L</answer1>
+        <answer2>I</answer2>
+        <answer3>U</answer3>
+        <answer4>T</answer4>
+    </question>
+
+    <!-- Synteza subtraktywna, addytywna, FM -->
+
+    <question>
+        <description>Generator fali sinusoidalnej, którą podajemy obróbce celem zmiany brzmienia to:</description>
+        <answer1>Synteza subtraktywna</answer1>
+        <answer2>Synteza addytywna</answer2>
+        <answer3>Synteza FM</answer3>
+        <answer4>Sampling</answer4>
+    </question>
+    <question>
+        <description>Kształtujemy widmo, aby uzyskać konkretne brzmienie podczas:</description>
+        <answer1>Syntezy addytywnej</answer1>
+        <answer2>Syntezy substraktywnej</answer2>
+        <answer3>Samplingu</answer3>
+        <answer4>Modelowania matematycznego</answer4>
+    </question>
+    <question>
+        <description>Wykorzystując modulację częstotliwości, uzależniamy częstotliwość od kolejnej funkcji:</description>
+        <answer1>Synteza FM</answer1>
+        <answer2>Synteza substraktywna</answer2>
+        <answer3>Synteza addytywna</answer3>
+        <answer4>Sampling</answer4>
+    </question>
+
+    <!-- Dźwięk i odwzorowanie danych -->
+
+    <question>
+        <description>Konkretny dźwięk, jako wiadomość to:</description>
+        <answer1>Ikony dzwiekowe - "auditory icons"</answer1>
+        <answer2>Earcons</answer2>
+        <answer3>Audyfikacja</answer3>
+        <answer4>Mapowanie parametrow</answer4>
+    </question>
+    <question>
+        <description>Bezpośrednie odwzorowanie danych numerycznych:</description>
+        <answer1>Audyfikacja</answer1>
+        <answer2>Ikony dzwiekowe - "auditory icons"</answer2>
+        <answer3>Earcons</answer3>
+        <answer4>Mapowanie parametrow</answer4>
+    </question>
+
+    <!-- X -> Y -->
+    <!--
+        Wykresy liniowe
+        Wykresy punktowe
+        Wykresy słupkowe
+        Wykresy kołowe
+    -->
+
+    <question>
+        <description>Wykres liniowy:</description>
+        <answer1>X->Y</answer1>
+        <answer2>X^2->Y</answer2>
+        <answer3>X^2->Y^m</answer3>
+        <answer4>X^n->Y^m dla m >= 1</answer4>
+    </question>
+    <question>
+        <description>Wykres punktowy:</description>
+        <answer1>X->Y</answer1>
+        <answer2>X^2->Y</answer2>
+        <answer3>X^2->Y^m</answer3>
+        <answer4>X^n->Y^m dla m >= 1</answer4>
+    </question>
+    <question>
+        <description>Wykres słupkowy:</description>
+        <answer1>X->Y</answer1>
+        <answer2>X^2->Y</answer2>
+        <answer3>X^2->Y^m</answer3>
+        <answer4>X^n->Y^m dla m >= 1</answer4>
+    </question>
+    <question>
+        <description>Wykres kołowy:</description>
+        <answer1>X->Y</answer1>
+        <answer2>X->Y^m</answer2>
+        <answer3>X^2->Y</answer3>
+        <answer4>X^2->Y^m</answer4>
+    </question>
+    <question>
+        <description>X->Y</description>
+        <answer1>
+            ◦	wykresy liniowe
+            ◦	wykresy punktowe
+            ◦	wykresy słupkowe
+            ◦	wykresy kołowe
+        </answer1>
+        <answer2>
+            ◦	wykresy liniowe (zwykłe i warstwowe)
+            ◦	wykresy punktowe
+            ◦	wykresy słupkowe
+            ◦	wykresy pierścieniowe
+            ◦	wykres radarowy
+            ◦	wykres sieć rybacka
+        </answer2>
+        <answer3>
+            ◦	wykresy powierzchniowe
+            ◦	wykresy słupkowe
+            ◦	wykresy typu mapa
+            ◦	wykresy bąbelkowe
+        </answer3>
+        <answer4>
+            ◦	wykresy powierzchniowe
+            ◦	wykresy słupkowe
+            ◦	wykresy bąbelkowe
+            ◦	wykres pole wektorowe
+        </answer4>
+    </question>
+
+    <!-- X->Y^m dla m > 1 -->
+    <!--
+        Wykresy liniowe (zwykłe i warstwowe)
+        Wykresy punktowe
+        Wykresy słupkowe
+        Wykresy pierścieniowe
+        Wykresy radarowe
+        Wykresy typu sieć rybacka
+    -->
+
+    <question>
+        <description>Wykres liniowy (zwykły i warstwowy):</description>
+        <answer1>X->Y^m dla m > 1</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^2->Y</answer3>
+        <answer4>X^2->Y^m</answer4>
+    </question>
+    <question>
+        <description>Wykres punktowy:</description>
+        <answer1>X->Y^m dla m > 1</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^2->Y</answer3>
+        <answer4>X^2->Y^m</answer4>
+    </question>
+    <question>
+        <description>Wykres słupkowy:</description>
+        <answer1>X->Y^m dla m > 1</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^2->Y</answer3>
+        <answer4>X^2->Y^m</answer4>
+    </question>
+    <question>
+        <description>Wykres pierścieniowy:</description>
+        <answer1>X->Y^m dla m > 1</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^2->Y</answer3>
+        <answer4>X^2->Y^m</answer4>
+    </question>
+    <question>
+        <description>Sieć rybacka (odwzorowanie):</description>
+        <answer1>X->Y^m dla m > 1</answer1>
+        <answer2>X^2->Y^m dla m > 1</answer2>
+        <answer3>X^n->Y^m dla n > 1, m >= 1</answer3>
+        <answer4>X->Y</answer4>
+    </question>
+    <question>
+        <description>X -> Y^m dla m > 1</description>
+        <answer1>
+            ◦	wykresy liniowe (zwykłe i warstwowe)
+            ◦	wykresy punktowe
+            ◦	wykresy słupkowe
+            ◦	wykresy pierścieniowe
+            ◦	wykres radarowy
+            ◦	wykres sieć rybacka
+        </answer1>
+        <answer2>
+            ◦	wykresy liniowe
+            ◦	wykresy punktowe
+            ◦	wykresy słupkowe
+            ◦	wykresy kołowe
+        </answer2>
+        <answer3>
+            ◦	wykresy mozajkowe
+            ◦	animacja jednego wymiaru
+            ◦	przekroje jednego wymiaru
+        </answer3>
+        <answer4>
+            ◦	wykresy powierzchniowe
+            ◦	wykresy słupkowe
+            ◦	wykresy bąbelkowe
+            ◦	wykres pole wektorowe
+        </answer4>
+    </question>
+
+    <!-- X^2->Y -->
+    <!--
+        Wykresy powierzchniowe
+        Wykresy słupkowe
+        Wykresy typu mapa
+        Wykresy bąbelkowe
+    -->
+
+    <question>
+        <description>Wykres powierzchniowy:</description>
+        <answer1>X^2->Y</answer1>
+        <answer2>X->Y^2</answer2>
+        <answer3>X->Y</answer3>
+        <answer4>X^m->Y^n, n=>1</answer4>
+    </question>
+    <question>
+        <description>Wykres słupkowy:</description>
+        <answer1>X^2->Y</answer1>
+        <answer2>X->Y^2</answer2>
+        <answer3>X->Y</answer3>
+        <answer4>X^m->Y^n, n=>1</answer4>
+    </question>
+    <question>
+        <description>Wykres typu mapa:</description>
+        <answer1>X^2->Y</answer1>
+        <answer2>X->Y^2</answer2>
+        <answer3>X->Y</answer3>
+        <answer4>X^m->Y^n, n=>1</answer4>
+    </question>
+    <question>
+        <description>Wykres bąbelkowy:</description>
+        <answer1>X^2->Y</answer1>
+        <answer2>X->Y^2</answer2>
+        <answer3>X->Y</answer3>
+        <answer4>X^m->Y^n, n=>1</answer4>
+    </question>
+    <question>
+        <description>X^2 -> Y</description>
+        <answer1>
+            ◦	wykresy powierzchniowe
+            ◦	wykresy słupkowe
+            ◦	wykresy typu mapa
+            ◦	wykresy bąbelkowe
+        </answer1>
+        <answer2>
+            ◦	wykresy powierzchniowe
+            ◦	wykresy słupkowe
+            ◦	wykresy bąbelkowe
+            ◦	wykres pole wektorowe
+        </answer2>
+        <answer3>
+            ◦	wykresy liniowe
+            ◦	wykresy punktowe
+            ◦	wykresy słupkowe
+            ◦	wykresy kołowe
+        </answer3>
+        <answer4>
+            ◦	wykresy mozajkowe
+            ◦	animacja jednego wymiaru
+            ◦	przekroje jednego wymiaru
+        </answer4>
+    </question>
+
+    <!-- X^2 -> Y^m -->
+    <!--
+        Wykresy powierzchniowe
+        Wykresy słupkowe
+        Wykresy bąbelkowe
+        Wykresy typu wektorowe
+    -->
+
+    <question>
+        <description>Wykres powierzchniowy:</description>
+        <answer1>X^2->Y^m</answer1>
+        <answer2>X->Y^2</answer2>
+        <answer3>X->Y</answer3>
+        <answer4>X^m->Y^n, n=>1</answer4>
+    </question>
+    <question>
+        <description>Wykres słupkowy:</description>
+        <answer1>X^2->Y^m</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^n->Y^m dla m >= 1</answer3>
+        <answer4>X->Y^m</answer4>
+    </question>
+    <question>
+        <description>Wykres bąbelkowy:</description>
+        <answer1>X^2->Y^m</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^n->Y^m dla m >= 1</answer3>
+        <answer4>X->Y^m</answer4>
+    </question>
+    <question>
+        <description>Wykres wektorowy:</description>
+        <answer1>X^2->Y^m</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^n->Y^m dla m >= 1</answer3>
+        <answer4>X->Y^m</answer4>
+    </question>
+    <question>
+        <description>X^2 -> Y^m</description>
+        <answer1>
+            ◦	wykresy powierzchniowe
+            ◦	wykresy słupkowe
+            ◦	wykresy bąbelkowe
+            ◦	wykres pole wektorowe
+        </answer1>
+        <answer2>
+            ◦	wykresy mozajkowe
+            ◦	animacja jednego wymiaru
+            ◦	przekroje jednego wymiaru
+        </answer2>
+        <answer3>
+            ◦	wykresy liniowe (zwykłe i warstwowe)
+            ◦	wykresy punktowe
+            ◦	wykresy słupkowe
+            ◦	wykresy pierścieniowe
+            ◦	wykres radarowy
+            ◦	wykres sieć rybacka
+        </answer3>
+        <answer4>
+            ◦	wykresy liniowe
+            ◦	wykresy punktowe
+            ◦	wykresy słupkowe
+            ◦	wykresy kołowe
+        </answer4>
+    </question>
+
+    <!-- X^n -> Y^m dla m >= 1 -->
+    <!--
+        Wykresy mozaikowe
+        Animacja jednego wymiaru
+        Przekroje jednego wymiaru
+    -->
+
+    <question>
+        <description>Wykres mozaikowy:</description>
+        <answer1>X^n->Y^m dla m >= 1</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^2->Y^m dla m >= 1</answer3>
+        <answer4>X->Y^m</answer4>
+    </question>
+    <question>
+        <description>Animacja jednego wymiaru:</description>
+        <answer1>X^n->Y^m dla m >= 1</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^2->Y^m dla m >= 1</answer3>
+        <answer4>X->Y^m</answer4>
+    </question>
+    <question>
+        <description>Przekroje jednego wymiaru:</description>
+        <answer1>X^n->Y^m dla m >= 1</answer1>
+        <answer2>X->Y</answer2>
+        <answer3>X^2->Y^m dla m >= 1</answer3>
+        <answer4>X->Y^m</answer4>
+    </question>
+    <question>
+        <description>X^n -> Y^m dla m >= 1</description>
+        <answer1>
+            ◦	wykresy mozajkowe
+            ◦	animacja jednego wymiaru
+            ◦	przekroje jednego wymiaru
+        </answer1>
+        <answer2>
+            ◦	wykresy powierzchniowe
+            ◦	wykresy słupkowe
+            ◦	wykresy bąbelkowe
+            ◦	wykres pole wektorowe
+        </answer2>
+        <answer3>
+            ◦	wykresy powierzchniowe
+            ◦	wykresy słupkowe
+            ◦	wykresy typu mapa
+            ◦	wykresy bąbelkowe
+        </answer3>
+        <answer4>◦	wykresy liniowe (zwykłe i warstwowe)
+            ◦	wykresy punktowe
+            ◦	wykresy słupkowe
+            ◦	wykresy pierścieniowe
+            ◦	wykres radarowy
+            ◦	wykres sieć rybacka
+        </answer4>
+    </question>
+
+</test>
