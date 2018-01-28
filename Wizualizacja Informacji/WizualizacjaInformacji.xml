@@ -1,18 +1,18 @@
 <test>
 
     <question>
-        <description>Porządkowanie danych pozwala dobrze ukazywać zależności w...</description>
-        <answer1>wykresie typu szachownicy</answer1>
-        <answer2>wykresie punktowym</answer2>
+        <description>Porządkowanie danych pozwala dobrze ukazywać zależności na wykresie:</description>
+        <answer1>typu szachownica</answer1>
+        <answer2>punktowym</answer2>
         <answer3>typu mapa</answer3>
-        <answer4>sieci rybackiej</answer4>
+        <answer4>typu sieć rybacka</answer4>
     </question>
     <question>
         <description>Co to są mikrowzory?</description>
         <answer1>Grupowanie pikseli w nadpiksele</answer1>
         <answer2>Antyaliasing</answer2>
-        <answer3>korekcje gamma</answer3>
-        <answer4>zależności logarytmiczne</answer4>
+        <answer3>Korekcje gamma</answer3>
+        <answer4>Zależności logarytmiczne</answer4>
     </question>
 
 
@@ -45,27 +45,27 @@
     <question>
         <description>Która nazwa jest synonimem Metody Centroidowej?</description>
         <answer1>LBG</answer1>
-        <answer2>cut-mediana</answer2>
+        <answer2>Cut-mediana</answer2>
         <answer3>Kwantyzacja wg drzewa ósemkowego</answer3>
         <answer4>Kwantyzacja skupionego grupowania</answer4>
     </question>
     <question>
         <description>Która nazwa jest synonimem Metody Centroidowej?</description>
         <answer1>k-średnich</answer1>
-        <answer2>cut-mediana</answer2>
+        <answer2>Cut-mediana</answer2>
         <answer3>Kwantyzacja wg drzewa ósemkowego</answer3>
         <answer4>Kwantyzacja skupionego grupowania</answer4>
     </question>
     <question>
         <description>Która nazwa jest synonimem Metody Centroidowej?</description>
         <answer1>klasterowa</answer1>
-        <answer2>cut-mediana</answer2>
+        <answer2>Cut-mediana</answer2>
         <answer3>Kwantyzacja wg drzewa ósemkowego</answer3>
         <answer4>Kwantyzacja skupionego grupowania</answer4>
     </question>
     <question>
         <description>Która nazwa nie jest synonimem Metody Centroidowej</description>
-        <answer1>Median cut</answer1>
+        <answer1>Cut-mediana</answer1>
         <answer2>klasterowy</answer2>
         <answer3>k-średnich</answer3>
         <answer4>LBG</answer4>
@@ -175,10 +175,10 @@
 
     <question>
         <description>Dane jednowymiarowe reprezentuje wykres:</description>
-        <answer1>Pudełkowy Tukeya</answer1>
-        <answer2>Typu mapa</answer2>
-        <answer3>Kolumnowy</answer3>
-        <answer4>Typu sieć rybacka</answer4>
+        <answer1>Pudełkowy Tukeya, Kolumnowy</answer1>
+        <answer2>Typu mapa, Kolumnowy</answer2>
+        <answer3>Kolumnowy, Typu sieć rybacka</answer3>
+        <answer4>Typu sieć rybacka, Pudełkowy Tukeya</answer4>
     </question>
     <question>
         <description>Dane jednowymiarowe reprezentuje wykres:</description>
@@ -291,10 +291,10 @@
     </question>
     <question>
         <description>Wykres słupkowy:</description>
-        <answer1>X->Y</answer1>
+        <answer1>Wszystkie wymienione</answer1>
         <answer2>X^2->Y</answer2>
         <answer3>X^2->Y^m</answer3>
-        <answer4>Wszystkie wymienione</answer4>
+        <answer4>X->Y</answer4>
     </question>
     <question>
         <description>Wykres kołowy:</description>
